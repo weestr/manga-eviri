@@ -1,2 +1,2 @@
-# manga-ceviri
+# weestr manga ceviri
 Günlük manga/webtoon çeviri
